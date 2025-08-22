@@ -1,6 +1,6 @@
 # Basic CI/CD Implementation with Simple Project
 
-## 📖 Story
+## 📖 Simple Story
 
 Imagine you are building your **personal portfolio website**.  
 Every time you make a small change (update a project, fix a typo, add a new skill), you have to:
